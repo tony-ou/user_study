@@ -1,0 +1,9 @@
+4,3,5,3,2,3,3
+1,2,3,4,5,6,7
+26891,9400,6192,7355,6542,6029,6687
+31288,14820,2757,3929,3295,3527,2476
+A1F669OTXWIJW0
+Laptop
+25 - 31
+WiFi
+If something significant happened during the match that determines the winner.

@@ -18,6 +18,12 @@ if ! [[ -d "$old_result" ]]; then
     echo "$old_result directory created successfully"
 fi
 
+old_accept=$old_result/results
+if ! [[ -d "$old_accept" ]]; then
+    mkdir $old_accept
+    echo "$old_accept directory created successfully"
+fi
+
 old_rej=$old_result/rejected_results
 
 if ! [[ -d "$old_rej" ]]; then
@@ -25,8 +31,12 @@ if ! [[ -d "$old_rej" ]]; then
     echo "$old_rej directory created successfully"
 fi
 
-mv results/*.txt $old_result
-echo "moved results into $old_result"
+mv sum.csv $old_result
+echo "moved sum into $old_result"
+
+
+mv results/*.txt $old_accept
+echo "moved results into $old_accept"
 
 mv rejected_results/*.txt $old_rej
 echo "moved rejected results into $old_rej"

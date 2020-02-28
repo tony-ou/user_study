@@ -2,9 +2,9 @@
 var getOder = require('../models/random');
 var fs = require('fs');
 
-const vid_folder = "video_importance";
+const vid_folder = "original_videos_Gaming_1080P_Gaming_1080P-57ca";
 var vid_path = "videos/" + vid_folder;
-var video_url = "https://github.com/hyperpro/user_study/raw/master/videos/" + vid_folder + "/";
+var video_url = "https://github.com/tony-ou/user_study/raw/master/videos/" + vid_folder + "/";
 
 var num_vids;
 fs.readdir(vid_path, function(err, files) {

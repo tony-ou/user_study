@@ -46,7 +46,7 @@ if [[ -f "$FILE_CHECK3" ]]; then
 fi
 
 if [[ $EXISTS == 0 ]]; then
-    python plot_results.py $RES_NAME
+    python3 plot_results.py $RES_NAME
     if [[ -f "$FILE_1" ]]; then
         mv $FILE_1 ../fig/
         echo "$FILE_CHECK1 created successfully"

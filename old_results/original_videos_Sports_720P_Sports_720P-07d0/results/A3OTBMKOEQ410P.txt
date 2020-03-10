@@ -1,0 +1,9 @@
+5,3,2,1,4,3,3
+1,2,3,4,5,6,7
+27345,8555,9180,6918,8785,9005,7464
+20142,23762,3714,2505,3869,3762,3109
+A3OTBMKOEQ410P
+Smart phone
+25 - 31
+WiFi
+How much of the original video was shown and how often there was nothing on the screen. 

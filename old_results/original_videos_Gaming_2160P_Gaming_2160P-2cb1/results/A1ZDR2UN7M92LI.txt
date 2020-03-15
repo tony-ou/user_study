@@ -1,0 +1,9 @@
+5,4,4,4,3,3
+1,2,3,4,5,6
+27182,7922,14001,22052,7162,7329
+17448,7374,2779,2724,2640,3204
+A1ZDR2UN7M92LI
+Laptop
+32 - 38
+WiFi
+How much action was going on in the scene.

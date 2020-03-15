@@ -1,0 +1,9 @@
+5,4,4,4,4,2
+1,2,3,4,5,6
+53214,15024,10063,17387,7570,28644
+34119,20656,8655,6756,6009,4693
+A1HFPDHBLO6KZW
+Laptop
+46 - 52
+WiFi
+some part of this are not quite string with what the game movement is about 

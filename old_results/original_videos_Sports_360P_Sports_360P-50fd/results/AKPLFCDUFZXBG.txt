@@ -1,0 +1,9 @@
+4,3,4,5,3,3
+1,2,3,4,5,6
+25508,7566,9319,8841,9605,8662
+3235,3416,2556,4765,5509,3524
+AKPLFCDUFZXBG
+Laptop
+18 - 24
+WiFi
+If anything happens it shouldn't be as important as the main action.

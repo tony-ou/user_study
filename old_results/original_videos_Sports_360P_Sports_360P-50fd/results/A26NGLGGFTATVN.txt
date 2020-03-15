@@ -1,0 +1,9 @@
+5,4,4,4,2,3
+1,2,3,4,5,6
+22940,7630,7321,6818,7445,7265
+13400,10102,1980,2429,3916,7391
+A26NGLGGFTATVN
+Desktop
+32 - 38
+WiFi
+Whether or not the part of the video added to the viewing experience or was relevant.

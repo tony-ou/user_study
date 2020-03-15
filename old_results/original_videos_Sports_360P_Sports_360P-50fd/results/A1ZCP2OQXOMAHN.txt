@@ -1,0 +1,9 @@
+5,2,4,4,3,3
+1,2,3,4,5,6
+30946,9930,9179,8882,8865,8190
+18223,16175,4728,4362,2621,2749
+A1ZCP2OQXOMAHN
+Laptop
+32 - 38
+WiFi
+If there is a strong action happening in the video then I consider it important, but if it is just a motion without much consequence, I consider it unimportant

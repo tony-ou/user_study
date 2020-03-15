@@ -2,9 +2,9 @@
 var getOder = require('../models/random');
 var fs = require('fs');
 
-const vid_folder = "original_videos_Sports_720P_Sports_720P-07d0";
+const vid_folder = "original_videos_Sports_360P_Sports_360P-50fd";
 var vid_path = "./videos/" + vid_folder;
-var video_url = "https://github.com/tony-ou/user_study/raw/master/videos/" + vid_folder + "/";
+var video_url = "https://github.com/tony-ou/user_study/raw/aws/videos/" + vid_folder + "/";
 
 var num_vids;
 

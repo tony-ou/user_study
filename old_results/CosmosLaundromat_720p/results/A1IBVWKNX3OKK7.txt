@@ -1,0 +1,9 @@
+5,2,4,5,4,4
+1,2,3,4,5,6
+57043,44980,11982,9621,10591,8456
+49592,12690,19847,7698,2074,6302
+A1IBVWKNX3OKK7
+Smart phone
+25 - 31
+Cellular network
+Whether a clip had the main character in it.
